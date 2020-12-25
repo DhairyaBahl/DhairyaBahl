@@ -28,5 +28,3 @@
 <a href="https://linkedin.com/in/dhairya-bahl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhairya-bahl" height="30" width="40" /></a>
 <a href="https://medium.com/@dhairyabahl5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dhairyabahl5" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairyabahl&show_icons=true&locale=en&layout=compact" alt="dhairyabahl" /></p>
