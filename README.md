@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **dhairyabahl5@gmail.com**
 
-- 📄 Know about my experiences [Working On It Currently!!](Working On It Currently!!)
-
 - ⚡ Fun fact **They've promised that dreams can come true - but forgot to mention that nightmares are dreams, too.**
 
 <h3 align="left">Connect with me:</h3>
