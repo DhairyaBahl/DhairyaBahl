@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi 👋, I'm Dhairya Bahl</h1>
+﻿<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Dhairya Bahl</h1>
 <h3 align="center">I am an Open Source Enthusiast ❤️</h3>
 
 
