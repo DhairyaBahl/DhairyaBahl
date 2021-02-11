@@ -15,6 +15,7 @@
 - 📫 How to reach me **dhairyabahl5@gmail.com**
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/DhairyaBahl">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DhairyaBahl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
