@@ -1,5 +1,5 @@
-﻿<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Dhairya Bahl</h1>
-<h3 align="center">I am an Open Source Enthusiast ❤️</h3>
+﻿<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Dhairya Bahl 👨‍💻 </h1>
+<h3 align="center">I ❤️ Open Source</h3>
 
 
 - 🔭 I’m currently working on [Messenger App](https://mui-message.firebaseapp.com) and few other projects.
@@ -13,6 +13,14 @@
 - 💬 Ask me about **JS, C++, C and Open Source ❤️**
 
 - 📫 How to reach me **dhairyabahl5@gmail.com**
+
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/DhairyaBahl">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DhairyaBahl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DhairyaBahl&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
