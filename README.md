@@ -1,9 +1,6 @@
 ﻿<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Dhairya Bahl 👨‍💻 </h1>
 <h3 align="center">I ❤️ Open Source</h3>
 
-
-- 🔭 I’m currently working on [Messenger App](https://mui-message.firebaseapp.com) and few other projects.
-
 - 🌱 I’m passionate about **Web Development, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/DhairyaBahl](https://www.github.com/DhairyaBahl)
