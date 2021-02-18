@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Dhairya Bahl 👨‍💻 </h1>
-<h3 align="center">I ❤️ Open Source</h3>
+<h2 align="center">I ❤️ Open Source</h2>
 
 - 🌱 I’m passionate about **Web Development, Machine Learning**
 
@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **JS, C++, C and Open Source ❤️**
 
-- 📫 How to reach me **dhairyabahl5@gmail.com**
-
-### ⚙️ &nbsp;GitHub Analytics
+<h2 align="center">⚙️ GitHub Statistics</h2>
 
 <p align="center">
 <a href="https://github.com/DhairyaBahl">
