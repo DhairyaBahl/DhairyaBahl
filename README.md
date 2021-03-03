@@ -1,7 +1,9 @@
 ﻿<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Dhairya Bahl 👨‍💻 </h1>
 <h2 align="center">I ❤️ Open Source</h2>
 
-- 🌱 I’m passionate about **Web Development, Machine Learning**
+- 🌱 I’m passionate about **Web Development, Machine Learning, Android Development and almost every technology**
+
+- ❤️ I Love to Learn new things and Want to explore every technology
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/DhairyaBahl](https://www.github.com/DhairyaBahl)
 
