@@ -14,7 +14,7 @@
 
 - 📝 I love to write articles on [https://medium.com/@dhairyabahl5](https://medium.com/@dhairyabahl5)
 
-- 💬 Ask me about **JS, C++, C and Open Source ❤️**
+- 💬 **Just A Noob ^__^ **
 
 <h2 align="center">⚙️ GitHub Statistics</h2>
 
